@@ -1,2 +1,2 @@
-# Verkefni---Vefur-Uppsetning-me-PHP
+# Verkefni---Vefur-Uppsetning-með-PHP
 Verkefni í GSÖ
